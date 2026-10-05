@@ -1,0 +1,20 @@
+{
+  "extraKnownMarketplaces": {
+    "givewell-research-skills": {
+      "source": {
+        "source": "github",
+        "repo": "givewellorg/givewell-research-skills"
+      }
+    },
+    "project-management-starter-kit": {
+      "source": {
+        "source": "github",
+        "repo": "givewellorg/project-management-starter-kit"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "givewell-research-skills@givewell-research-skills": true,
+    "project-management-starter-kit@project-management-starter-kit": true
+  }
+}
